@@ -1,1 +1,1 @@
-cd;apt install python -y;chmod +x EIXEL/eixel.py;python eixel.py
+cd;apt install python -y;chmod +x EIXEL/eixel.py;python EIXEL/eixel.py
